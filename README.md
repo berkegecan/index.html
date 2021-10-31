@@ -12,7 +12,7 @@
 
 ***
 
-## Patika.dev HTML İkinci Ödev
+## Patika.dev HTML Üçüncü Ödev
 
 ![Üçüncü Ödev](https://github.com/berkegecan/index.html/blob/main/picture/Html_Odev_3.JPG)
 
